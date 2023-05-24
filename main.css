@@ -1,0 +1,51 @@
+body{
+    background: url('./1613702416_23-p-foni-vremeni-dlya-prezentatsii-27.jpg') no-repeat;
+}
+.konvertor{
+    margin-top: 50px;
+    margin: auto;
+}
+.konvertor_card{
+    margin: auto;
+    width: 50%;
+}
+.card-block{
+    padding: 10px;
+}
+.konvertor_card_text{
+    margin-top: 50px;
+    text-align: center;
+    font-weight: 900;
+    color: black;
+}
+.form-control{
+    margin-top: 20px;
+    border-color: black;
+}
+.output_time{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#timeOutput{
+    font-size: 22px;
+    color: red;
+    margin-left: 30px;
+    font-weight: 700;
+}
+#secundOutput{
+    font-size: 22px;
+    color: rgb(47, 127, 0);
+    margin-left: 30px;
+    font-weight: 700;
+}
+#minutOutput{
+    font-size: 22px;
+    color: black;
+    margin-left: 30px;
+    font-weight: 700;
+}
+.card_output{
+    display: flex;
+    margin: auto;
+}
